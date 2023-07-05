@@ -1,4 +1,4 @@
-# ESP_IDF_LovyanGFX
+# ESP-IDF LovyanGFX
 
 ## Description
 ESP-IDF에서 LovyanGFX 라이브러리 테스트   
