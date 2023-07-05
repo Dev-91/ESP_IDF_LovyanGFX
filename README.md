@@ -5,7 +5,7 @@ ESP-IDF에서 LovyanGFX 라이브러리 테스트
 ESP-IDF v5.0.2에서 테스트 진행   
    
 ## Commit
-2023.07.05 - gif img 테스트 (duck 192 x 240)  
+2023.07.05 - gif img 테스트 (duck 192 x 240)   
 
 ## Test Spec
 ```
@@ -15,9 +15,7 @@ TFT LCD : ST7789
 ```    
 
 ## External Library
-```
-Library : [LovyanGFX](https://github.com/lovyan03/LovyanGFX)
-```    
+Library : [LovyanGFX](https://github.com/lovyan03/LovyanGFX)   
 
 ## Setting
 ```
