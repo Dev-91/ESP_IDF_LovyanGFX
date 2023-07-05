@@ -1,7 +1,6 @@
 #include <LGFX_ST7789.hpp>
 
 #include "duck.h"
-#define DUCK_IMG
 
 static const char *TAG = "TFT";
 
