@@ -1,7 +1,7 @@
 # ESP_IDF_LovyanGFX
 
 ## Description
-ESP-IDF에서 TFT LCD 테스트   
+ESP-IDF에서 LovyanGFX 라이브러리 테스트   
 ESP-IDF v5.0.2에서 테스트 진행   
    
 ## Commit
