@@ -16,7 +16,7 @@ TFT LCD : ST7789
 
 ## External Library
 ```
-Library : LovyanGFX
+Library : [LovyanGFX](https://github.com/lovyan03/LovyanGFX)
 ```    
 
 ## Setting
